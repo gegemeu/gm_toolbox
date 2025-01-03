@@ -25,6 +25,6 @@ Matlab functions for linear systems, polynomial systems, quadrature rules, inter
 
 Matrices is a large file containing examples of matrices which can be downloaded from
 
-https://gerard-meurant.pagesperso-orange.fr/
+https://gerard-meurant.fr/
 
 under Software. It is only needed if you want to use these matrices or if you want to run the examples.
