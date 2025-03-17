@@ -5,17 +5,15 @@ Matlab functions for linear systems, polynomial systems, quadrature rules, inter
 
 % EIGENVALUES:    computation of eigenvalues, symmetric and non-symmetric matrices
 
-% INTERPOLATION:  computation of points for 2D interpolation
-
 % ISOTROPIC:      computation of isotropic vectors
 
 % LINEAR SYSTEMS: solvers for linear systems, symmetric and non-symmetric matrices
 
 % MATRICES:       examples of matrices
 
-% OPTIMIZATION:   minimization of functionals using Praxis
+% MATRICES FUNC:  functions for examples of matrices
 
-% POLY_SYSTEMS:   solutions of polynomial systems
+% OPTIMIZATION:   minimization of functionals using Praxis
 
 % PRECOND:        preconditioners
 
